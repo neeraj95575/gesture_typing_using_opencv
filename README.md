@@ -3,7 +3,11 @@
 downlnload the libraries:-
 
 pip install pyttsx3
+
 pip install imutils
+
 pip install PyAutoGUI
+
 pip install dlib
+
 pip install opencv-python
